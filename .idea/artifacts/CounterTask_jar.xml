@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CounterTask:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CounterTask_jar</output-path>
+    <root id="archive" name="CounterTask.jar">
+      <element id="module-output" name="CounterTask" />
+    </root>
+  </artifact>
+</component>
