@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CryptoHelper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CryptoHelper_jar</output-path>
+    <root id="archive" name="CryptoHelper.jar">
+      <element id="module-output" name="CryptoHelper" />
+    </root>
+  </artifact>
+</component>
